@@ -11,7 +11,7 @@ The project aims to build a parallel sorting application that sorts a large data
 + Display the sorted dataset to the user.
 + Implement error handling to prevent crashes in the application.
 
-## Project Steps:
+## Project Steps
 
 + Develop the multithreaded quicksort algorithm in C++.
 + Use the C++ threading library to create and manage threads for sorting the dataset.
