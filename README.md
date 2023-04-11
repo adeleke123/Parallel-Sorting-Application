@@ -25,15 +25,8 @@ The project aims to build a parallel sorting application that sorts a large data
 
 
 
+     +---+
+     | A |
+     +---+
 
-      
-| Segment  Registers | Purpose |
-| ------------------ | ------- |
-| CS | Code Segment |
-| DS | Data Segment |
-| SS | Stack Segment |
-| ES | Extra Segment |
-| FS | F Segment |
-| GS | G Segment |
-      
 
