@@ -25,9 +25,9 @@ The project aims to build a parallel sorting application that sorts a large data
 
 
 
-+-------+-------+---------+-----------+
+
 |  Name |  Bits |  Alias  |   Purpose |
-+-------+-------+---------+-----------+
+| ------| ----- |-------- |---------- |
 |   RAX |  64   |    EAX  | Accumulator|
 |   RBX |  64   |    EBX  |  Base ptr |
 |   RCX |  64   |    ECX  |  Counter  |
@@ -37,4 +37,4 @@ The project aims to build a parallel sorting application that sorts a large data
 |   RBP |  64   |    EBP  | Base ptr  |
 |   RSP |  64   |    ESP  | Stack ptr |
 |  R8-R15|  64   | R8D-R15D|  General  |
-+-------+-------+---------+-----------+
+
